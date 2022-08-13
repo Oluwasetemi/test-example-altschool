@@ -7,3 +7,4 @@ function printName(name) {
 }
 
 printName('Oluwasetemi Ojo');
+printName('Samson Okeji');
